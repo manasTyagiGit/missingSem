@@ -1,0 +1,23 @@
+hey this is the first additio using, and this 
+is it
+
+Manas Tyagi
+
+
+SO thas is just append in second write
+:w to write into the file before :q
+
+:w to write into the file before :q
+:w to write into the file before :q
+
+:help = helpbox
+:q = quit
+:q! = quit forcefully without save
+
+this is using :sp for multiple files opening
+
+
+Vim is a modal editor,
+
+and the core idea behind vim is that it is a programming language interface
+in itself
