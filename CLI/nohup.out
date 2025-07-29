@@ -1,0 +1,33 @@
+modprobe cpufreq_stats failed
+Loaded 1 prior measurements
+RAPL device for cpu 0
+RAPL Using PowerCap Sysfs : Domain Mask d
+RAPL device for cpu 0
+RAPL Using PowerCap Sysfs : Domain Mask d
+Devfreq not enabled
+glob returned GLOB_ABORTED
+Leaving PowerTOP
+Cannot load from file /var/cache/powertop/saved_parameters.powertop
+File will be loaded after taking minimum number of measurement(s) with battery only 
+Cannot load from file /var/cache/powertop/saved_parameters.powertop
+File will be loaded after taking minimum number of measurement(s) with battery only 
+To show power estimates do 362 measurement(s) connected to battery only
+PowerTOP 2.15 must be run with root privileges.
+exiting...
+PowerTOP 2.15 must be run with root privileges.
+exiting...
+modprobe cpufreq_stats failed
+Loaded 1 prior measurements
+RAPL device for cpu 0
+RAPL Using PowerCap Sysfs : Domain Mask d
+RAPL device for cpu 0
+RAPL Using PowerCap Sysfs : Domain Mask d
+Devfreq not enabled
+glob returned GLOB_ABORTED
+Leaving PowerTOP
+Cannot load from file /var/cache/powertop/saved_parameters.powertop
+File will be loaded after taking minimum number of measurement(s) with battery only 
+Cannot load from file /var/cache/powertop/saved_parameters.powertop
+File will be loaded after taking minimum number of measurement(s) with battery only 
+To show power estimates do 362 measurement(s) connected to battery only
+TLP started in battery mode (auto).
